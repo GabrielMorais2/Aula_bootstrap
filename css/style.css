@@ -1,0 +1,17 @@
+font{
+    font-size: Arial;
+}
+.Parceiros{
+    background-color: lightsalmon;
+}
+.quem-somos{
+    background-color: rgb(18, 160, 153);
+}
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.bg-footer {
+    background-color: black;
+    color: white;
+}
